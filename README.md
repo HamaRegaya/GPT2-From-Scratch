@@ -4,7 +4,8 @@
 
 <p>Ce référentiel contient une démonstration complète de l'entraînement et de la génération de texte à l'aide d'un modèle GPT-2 miniature. Le projet est conçu pour être informatif et éducatif, adapté aussi bien aux débutants qu'aux experts dans les domaines de l'apprentissage automatique et du traitement du langage naturel.</p>
 
-![Uploading image.png…]()
+![image](https://github.com/HamaRegaya/GPT2-From-Scratch/assets/80206931/15d582c7-5866-4dbe-b085-19629155444d)
+
 
 
 <h3>Qu'est-ce qu'un modèle de langage ?</h3>
@@ -13,14 +14,13 @@
 
 <p>Dans ce contexte, le GPT-2 peut être considéré comme une version avancée de ces claviers prédictifs. Entraîné sur un ensemble de données massif de 40 Go appelé WebText, le GPT-2 est beaucoup plus grand et plus sophistiqué que les modèles de clavier typiques.</p>
 
-![Uploading image.png…]()
+![image](https://github.com/HamaRegaya/GPT2-From-Scratch/assets/80206931/013feabe-ae0b-45db-a0ea-3ce8c04554ef)
 
 <h2>Objectif</h2>
 
 <p>L'objectif principal de ce projet est de comprendre et d'expérimenter l'entraînement d'un modèle de langage en utilisant l'architecture GPT-2, en utilisant des données textuelles pour générer du texte de manière autonome et cohérente.</p>
 
-![Uploading image.png…]()
-
+![image](https://github.com/HamaRegaya/GPT2-From-Scratch/assets/80206931/3e0a6f2e-248c-4f9f-beba-0109ee074937)
 
 <h2>Contenu et Méthodologie</h2>
 
@@ -41,5 +41,4 @@
 <h2>Conclusion</h2>
 
 <p>En conclusion, ce référentiel offre un guide complet pour l'entraînement d'un modèle GPT-2 miniature et la génération de texte. Il constitue une ressource pratique et éducative pour explorer les capacités des modèles de langage modernes, adaptée aux projets de petite échelle ou pour l'apprentissage dans le domaine de l'intelligence artificielle et du traitement du langage naturel.</p>
-
 <p>N'hésitez pas à explorer le notebook et à expérimenter avec le code fourni pour approfondir votre compréhension de la modélisation du langage et de la génération de texte avec GPT-2.</p>
